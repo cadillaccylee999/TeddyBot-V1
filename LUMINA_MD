@@ -4,4 +4,4 @@ WORKDIR /root/Kingjux
 RUN npm install
 EXPOSE 8000
 CMD ["npm","start" ] 
-# POWERD BY VENOCYBER TECH
+# POWERED BY kylieXcyleeTech
