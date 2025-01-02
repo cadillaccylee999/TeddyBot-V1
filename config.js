@@ -48,11 +48,11 @@ module.exports = {
   HANDLERS: process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
-  caption: process.env.CAPTION || "`𝗟𝗨𝗠𝗜𝗡𝗔-𝗠𝗗 𝙥𝙤𝙬𝙚𝙧𝙚𝙙 𝙗𝙮 𝙠𝙮𝙡𝙞𝙚𝙓𝙘𝙮𝙡𝙚𝙚𝙏𝙚𝙘𝙝`",
+  caption: process.env.CAPTION || "`𝗟𝗨𝗠𝗜𝗡𝗔-𝗠𝗗 𝙥𝙤𝙬𝙚𝙧𝙚𝙙 𝙗𝙮 𝙠𝙮𝙡𝙞𝙚𝙓𝙘𝙮𝙡𝙚𝙚𝙏𝙚𝙘𝙝` 👾❤️",
   author: process.env.PACK_AUTHER || "𝗟𝗨𝗠𝗜𝗡𝗔",
-  packname: process.env.PACK_NAME || "𝗦𝗜𝗥 𝗖𝗬𝗟𝗘𝗘",
-  botname: process.env.BOT_NAME || "𝗟𝗨𝗠𝗜𝗡𝗔-𝗠𝗗",
-  ownername: process.env.OWNER_NAME || "𝗖𝗮𝗱𝗶𝗹𝗹𝗮𝗰 𝗖𝘆𝗹𝗲𝗲 ",
+  packname: process.env.PACK_NAME || "𝗦𝗜𝗥 𝗖𝗬𝗟𝗘𝗘 ❤️🧸",
+  botname: process.env.BOT_NAME || "❤️👾 𝗟𝗨𝗠𝗜𝗡𝗔-𝗠𝗗 👾❤️",
+  ownername: process.env.OWNER_NAME || "𝗖𝗮𝗱𝗶𝗹𝗹𝗮𝗰 𝗖𝘆𝗹𝗲𝗲 👾❤️",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
@@ -64,7 +64,7 @@ module.exports = {
   aitts_Voice_Id: process.env.AITTS_ID || "37",
   ELEVENLAB_API_KEY: process.env.ELEVENLAB_API_KEY || "",
   WORKTYPE: process.env.WORKTYPE || process.env.MODE || "private",
-  LANG: (process.env.THEME || "VENOCYBER").toUpperCase(),
+  LANG: (process.env.THEME || "𝗟 𝗨 𝗠 𝗜 𝗡 𝗔").toUpperCase(),
 };
 global.rank = "updated";
 global.isMongodb = false;
