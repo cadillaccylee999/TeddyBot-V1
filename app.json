@@ -1,5 +1,5 @@
 {
-  "name": "venocyber-md",
+  "name": "lumina-md",
   "description": "Simple WhatsApp Bot",
   "logo": "https://github.com/kingjux/Venocyber-md/blob/main/lib/assets/logo.png?raw=true",
   "keywords": ["VENOCYBER-MD", "VENOCYBER", "VENOCYBER MD BOT","VENOCYBER MD","venocyber","venocybertech"],
@@ -27,7 +27,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required": false,
-      "value": "𝐕𝐄𝐍𝐎𝐂𝐘𝐁𝐄𝐑 𝐌𝐃 𝐰𝐚𝐛𝐨𝐭𝐬"
+      "value": " LUMINA-MD"
     },
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
